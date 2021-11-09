@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vivek1898
+- 👋 Hi, I’m Vivek Singh
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning MERN Stack
 
