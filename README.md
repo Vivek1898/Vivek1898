@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vivek Singh
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning MERN Stack
-- 
+-  Competitive programming enthusiastic
 <p align="left"> <a href="https://www.codechef.com/users/vic8526"> <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="vivek1898" /> </a>
   <a href="https://auth.geeksforgeeks.org/user/viveksingh27795/profile"> <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="vivek1898" /> </a>
    <a href="https://www.hackerrank.com/viveksingh27795"> <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="vivek1898" /> </a>
