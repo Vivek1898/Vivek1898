@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vivek Singh
 - 🌱 Competitive programming enthusiastic
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning MERN Stack
+- 🌱 I’m currently Working MERN Stack
 
 <p align="left"> <a href="https://www.codechef.com/users/vic8526"> <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="vivek1898" /> </a>
   <a href="https://auth.geeksforgeeks.org/user/viveksingh27795/profile"> <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="vivek1898" /> </a>
@@ -25,6 +25,6 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ## Connect with me:
-[![Instagram](https://img.shields.io/badge/@_heyvivek-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_heyvivek)  [![Website](https://img.shields.io/website?label=Futuristic&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://futuristiclpu.tech/) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivek-s-953368121/)
+[![Instagram](https://img.shields.io/badge/@_heyvivek-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_heyvivekk)  [![Website](https://img.shields.io/website?label=Futuristic&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://futuristiclpu.tech/) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivek-s-953368121/)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivek1898&label=Profile%20Views&color=orange&style=flat-square" alt="Vivek1898" /> </p>
 
