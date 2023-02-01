@@ -15,8 +15,27 @@
 Vivek1898/Vivek1898 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+```js
+import StudentDeveloper from 'vic';
+
+class Bio extends StudentDeveloper {
+  name     = 'Vivek Singh';
+  title    = 'Student Developer';
+  company  = 'OpenSource | Remote';
+  location = 'Delhi, IN';
+}
+
+class Skills extends StudentDeveloper {
+  languages  = ['C', 'C++', 'Java', 'Python', 'JavaScript','Kotlin','TypeScript','Html', 'Css'];
+  databases  = ['MySQL', 'MongoDB', 'SQLite','firebase'];
+  frontend =  ['React','Angular','Bootstrap', 'jquery', 'Android'];
+  backend = ['Node', 'Express','Django'];
+  cloud = ['Azure', 'Aws'];
+}
+```
 ## Connect with me:
-[![Instagram](https://img.shields.io/badge/@_heyvivek-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_heyvivekk)  [![Website](https://img.shields.io/website?label=Futuristic&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://futuristiclpu.tech/) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivek-s-953368121/)
+[![Instagram](https://img.shields.io/badge/@_heyvivek-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_heyvivekk)  [![Website](https://img.shields.io/website?label=AcodeDaily&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.acodedaily.tech/) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivek-s-953368121/)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivek1898&label=Profile%20Views&color=orange&style=flat-square" alt="Vivek1898" /> </p>
 
 ---
