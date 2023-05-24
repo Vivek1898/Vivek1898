@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vivek Singh
 - 🌱 Competitive programming enthusiastic
-- 👀 MERN Stack developer
+- 👀 MERN Stack developer | Freelancer
 - 🌱 I’m currently Working On Django and my personal projects.
 - 👀 All of my project are available at <a href="https://vivekk.vercel.app/">-Link</a>
 
