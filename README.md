@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vivek Singh
 - 🌱 Competitive programming enthusiastic
 - 👀 MERN Stack developer | Freelancer
-- 🌱 I’m currently Working On Django and my personal projects.
+- 🌱 I’m currently Working On Django and Devops.
 - 👀 All of my project are available at <a href="https://vivekk.vercel.app/">-Link</a>
 
 <p align="left"> <a href="https://www.codechef.com/users/vic8526"> <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="vivek1898" /> </a>
@@ -28,11 +28,16 @@ class Bio extends StudentDeveloper {
 }
 
 class Skills extends StudentDeveloper {
-  languages  = ['C', 'C++', 'Java', 'Python', 'JavaScript','Kotlin','TypeScript','Html', 'Css'];
+  languages  = ['C', 'C++', 'Java', 'Python', 'JavaScript','Kotlin','TypeScript'];
   databases  = ['MySQL', 'MongoDB', 'SQLite','firebase'];
-  frontend =  ['React','Angular','Bootstrap', 'jquery', 'Android'];
+  frontend =  ['React','Angular','Bootstrap', 'jquery',,'Html', 'Css'];
   backend = ['Node', 'Express','Django'];
   cloud = ['Azure', 'Aws'];
+  ci/cd = ['Jenkins','Aws(CodePipeline)'];
+  containerization = ['Docker','Kubernetes'];
+  configManagement = ['Ansible'];
+  iaac = ['Cloud Formation', 'Terraform','boto 3'];
+  scripting = ['yaml','bash'];
 }
 ```
 ## Connect with me:
