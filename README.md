@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Vivek Singh
-- 🌱 Competitive programming enthusiastic
-- 👀 MERN Stack developer | Freelancer
-- 🌱 I’m currently Working On Django and Devops.
 - 👀 All of my project are available at <a href="https://vivekk.vercel.app/">-Link</a>
+ <!-- - 🌱 Competitive programming enthusiastic
+- 👀 MERN Stack developer | Freelancer
+- 🌱 I’m currently Working On Django and Devops. -->
 
 <p align="left"> <a href="https://www.codechef.com/users/vic8526"> <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="vivek1898" /> </a>
   <a href="https://auth.geeksforgeeks.org/user/viveksingh27795/profile"> <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="vivek1898" /> </a>
@@ -22,8 +22,8 @@ import StudentDeveloper from 'vic';
 
 class Bio extends StudentDeveloper {
   name     = 'Vivek Singh';
-  title    = 'Student Developer';
-  company  = 'OpenSource | Remote';
+  title    = 'Full Stack Developer';
+  company  = 'OpenSource | Remote | Freelancer';
   location = 'Delhi, IN';
 }
 
@@ -46,7 +46,7 @@ class Skills extends StudentDeveloper {
 
 ---
 
-### Languages and Tools:
+<!-- ### Languages and Tools:
 
 <p align="center">  
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c.svg" alt="C" height="40"/>
@@ -69,14 +69,14 @@ class Skills extends StudentDeveloper {
     <img src="https://github.com/gilbarbara/logos/blob/master/logos/microsoft-azure.svg" alt="Azure" width="40"/>
 </p>
 
----
+--- -->
 
-<summary><b>⚡ Github Stats</b></summary>
+<!-- <summary><b>⚡ Github Stats</b></summary>
 <details open>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vivek1898&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek1898&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
  </details>
-
+ -->
 
 <summary><b>☄️ Github Streaks</b></summary>
 <details open>
