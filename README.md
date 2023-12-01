@@ -29,11 +29,13 @@ class Bio extends StudentDeveloper {
 
 class Skills extends StudentDeveloper {
   languages  = ['C', 'C++', 'Java', 'Python', 'JavaScript','Kotlin','TypeScript'];
-  databases  = ['MySQL', 'MongoDB', 'SQLite','firebase'];
-  frontend =  ['React','Angular','Bootstrap', 'jquery',,'Html', 'Css'];
-  backend = ['Node', 'Express','Django'];
+  databases  = ['MySQL', 'MongoDB', 'SQLite','firebase','Redis'];
+  frontend =  ['ReactJs','Angular','NextJs','Bootstrap', 'jquery','Html', 'Css'];
+  backend = ['Node', 'Express','SailsJs','FastApi','Django','Solidity'];
+  orm  = [ 'mongoose' , 'sequelize' , 'prisma'];
+  query_language = ['graphql'];
   cloud = ['Azure', 'Aws'];
-  ci/cd = ['Jenkins','Aws(CodePipeline)'];
+  ci/cd = ['Jenkins','Aws(CodePipeline)','Github Actions'];
   containerization = ['Docker','Kubernetes'];
   configManagement = ['Ansible'];
   iaac = ['Cloud Formation', 'Terraform','boto 3'];
