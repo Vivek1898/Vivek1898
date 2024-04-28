@@ -31,7 +31,7 @@ class Skills extends StudentDeveloper {
   languages  = ['C', 'C++', 'Java', 'Python', 'JavaScript','Kotlin','TypeScript'];
   databases  = ['MySQL', 'MongoDB', 'SQLite','firebase','Redis'];
   frontend =  ['ReactJs','Angular','NextJs','Bootstrap', 'jquery','Html', 'Css'];
-  backend = ['Node', 'Express','SailsJs','FastApi','Django','Solidity'];
+  backend = ['Node', 'Express','SailsJs','FastApi','Django','Solidity', 'Spring Boot'];
   orm  = [ 'mongoose' , 'sequelize' , 'prisma'];
   query_language = ['graphql'];
   cloud = ['Azure', 'Aws'];
