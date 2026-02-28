@@ -134,11 +134,23 @@ func main() {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vivek1898&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<a href="https://github.com/Vivek1898">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vivek1898&theme=tokyonight" />
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek1898&layout=compact&theme=tokyonight&hide_border=true)
+<a href="https://github.com/Vivek1898">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vivek1898&theme=tokyonight" />
+</a>
+<a href="https://github.com/Vivek1898">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vivek1898&theme=tokyonight&utcOffset=5.5" />
+</a>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vivek1898&theme=tokyonight&hide_border=true)
+<a href="https://github.com/Vivek1898">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vivek1898&theme=tokyonight" />
+</a>
+<a href="https://github.com/Vivek1898">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vivek1898&theme=tokyonight" />
+</a>
 
 </div>
 
