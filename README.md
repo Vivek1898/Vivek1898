@@ -14,7 +14,6 @@
 <a href="https://codeforces.com/profile/vivekxx7"><img src="https://img.shields.io/badge/Codeforces-Specialist_1431-blue?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
 <a href="https://www.codechef.com/users/vic8526"><img src="https://img.shields.io/badge/CodeChef-3_Star_1756-brown?style=for-the-badge&logo=codechef&logoColor=white" /></a>
 <a href="https://leetcode.com/vivekx_7/"><img src="https://img.shields.io/badge/LeetCode-1821-orange?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-<a href="https://auth.geeksforgeeks.org/user/viveksingh27795/profile"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
 <a href="https://www.hackerrank.com/viveksingh27795"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
 </p>
 
