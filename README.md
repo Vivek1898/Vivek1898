@@ -2,8 +2,7 @@
 
 # Hey, I'm Vivek Singh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-### Full Stack Engineer | AI & Distributed Systems | DSA & Problem Solving
-
+### Full Stack Engineer | AI & Distributed Systems | SaaS | DSA & Problem Solving
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://vivekk.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivek-s-953368121/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viveksingh27795@gmail.com)
