@@ -2,7 +2,7 @@
 
 # Hey, I'm Vivek Singh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-### `Full Stack SDE @ ShyftLabs` | Building Agentic AI & Distributed Systems
+### Full Stack Engineer | AI & Distributed Systems | DSA & Problem Solving
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://vivekk.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivek-s-953368121/)
@@ -29,46 +29,44 @@ import (
 
 type FullStackEngineer struct {
     Name       string
-    Role       string
-    Company    string
+    Title      string
     Location   string
-    Currently  string
+    Focus      []string
     Superpower string
 }
 
 func (v *FullStackEngineer) BuildsThingsLike() []string {
     return []string{
-        "Agentic AI systems with multi-agent LLM orchestration",
+        "AI-powered SaaS platforms & agentic automation systems",
         "Event-driven microservices processing millions of events",
-        "E-commerce platforms across 15+ client integrations",
-        "Web3 intelligence platforms serving 10K+ traders",
-        "Automated video pipelines generating 100+ videos/day",
+        "Full stack e-commerce platforms across 15+ enterprise clients",
+        "Web3 intelligence platforms serving 10K+ users",
+        "Automated video generation pipelines at scale",
     }
 }
 
 func (v *FullStackEngineer) DailyTools() map[string][]string {
     return map[string][]string{
-        "languages": {"Go", "Python", "TypeScript", "Java", "C++", "PHP"},
-        "ai_ml":     {"LangChain", "LangGraph", "RAG", "Multi-Agent LLM", "OpenAI", "Embeddings"},
-        "backend":   {"Node.js", "FastAPI", "Django", "Spring Boot", "GraphQL", "gRPC"},
-        "frontend":  {"React.js", "Next.js", "Angular", "TypeScript"},
-        "databases": {"PostgreSQL", "MongoDB", "Redis", "DynamoDB", "Cassandra", "MySQL"},
-        "cloud":     {"AWS", "GCP", "Docker", "Kubernetes", "Terraform"},
-        "messaging": {"Kafka", "AWS SQS/SNS", "RabbitMQ", "Redis Pub/Sub"},
-        "devops":    {"GitHub Actions", "Jenkins", "CloudFormation", "Prometheus", "Grafana"},
+        "languages":  {"Go", "Python", "TypeScript", "Java", "C++", "PHP"},
+        "ai_ml":      {"LangChain", "LangGraph", "RAG", "Agentic AI", "OpenAI", "Embeddings"},
+        "backend":    {"Node.js", "FastAPI", "Django", "Spring Boot", "GraphQL", "gRPC"},
+        "frontend":   {"React.js", "Next.js", "Angular", "TypeScript"},
+        "databases":  {"PostgreSQL", "MongoDB", "Redis", "DynamoDB", "Cassandra", "MySQL"},
+        "cloud":      {"AWS", "GCP", "Docker", "Kubernetes", "Terraform"},
+        "messaging":  {"Kafka", "AWS SQS/SNS", "RabbitMQ", "Redis Pub/Sub"},
+        "dsa":        {"Codeforces Specialist", "CodeChef 3-Star", "LeetCode 1821"},
     }
 }
 
 func main() {
     me := &FullStackEngineer{
         Name:       "Vivek Singh",
-        Role:       "Full Stack Software Development Engineer",
-        Company:    "ShyftLabs",
-        Location:   "New Delhi, India",
-        Currently:  "Building autonomous AI agents & real-time distributed systems",
+        Title:      "Full Stack Software Engineer",
+        Location:   "India",
+        Focus:      []string{"AI/ML Systems", "Distributed Systems", "SaaS Platforms", "DSA"},
         Superpower: "Turning coffee into production-grade microservices at 3 AM",
     }
-    fmt.Printf("%s | %s\n", me.Name, strings.Join(me.BuildsThingsLike(), " + "))
+    fmt.Printf("%s | %s\n", me.Name, strings.Join(me.Focus, " + "))
 }
 ```
 
@@ -76,13 +74,15 @@ func main() {
 
 ## What I Build
 
-**Agentic AI & LLM Systems** — Multi-agent orchestration, RAG pipelines, real-time ad placement with sub-50ms latency
+**AI-Powered SaaS Platforms** — Intelligent automation systems with RAG pipelines, agentic AI, and real-time orchestration
 
-**Distributed Backend Systems** — Event-driven microservices with Kafka, SQS/SNS, processing millions of events
+**Distributed Backend Systems** — Event-driven microservices with Kafka, SQS/SNS, processing millions of events at scale
 
-**Full Stack E-commerce Infrastructure** — Connectors for Shopify/BigCommerce/WooCommerce across 15+ client integrations
+**Full Stack E-commerce Solutions** — Enterprise connectors (Shopify, BigCommerce, WooCommerce) across 15+ client integrations
 
-**Web3 Intelligence Platforms** — Real-time sentiment analysis, multi-chain support (Ethereum & Solana), serving 10K+ users
+**Web3 & Blockchain Platforms** — Real-time sentiment analysis, multi-chain support (Ethereum & Solana), serving 10K+ users
+
+**Problem Solving & DSA** — Codeforces Specialist (1431) | CodeChef 3-Star (1756) | LeetCode (1821) | 500+ problems solved
 
 ---
 
@@ -90,12 +90,12 @@ func main() {
 
 | Project | What it does | Tech |
 |---------|-------------|------|
-| **AdMesh** | Agentic AI advertising — autonomous brand agents for real-time ad placement in AI conversations | Go, LangChain, Kafka, Pinecone |
-| **Alpaco AI** | Web3 trading intelligence with RAG-powered crypto queries & sentiment analysis | Go, LangGraph, Kafka, Vector DB |
-| **Azura OS** | Multi-agent LLM command center with GPT-4/Claude/Gemini failover & circuit breakers | FastAPI, GraphQL, Solana Web3.js |
+| **AdMesh** | AI-powered programmatic advertising platform with autonomous targeting agents | Go, LangChain, Kafka, Pinecone |
+| **Alpaco AI** | Blockchain trading intelligence with RAG-based query engine & sentiment analysis | Go, LangGraph, Kafka, Vector DB |
+| **Azura OS** | Multi-LLM command center with GPT-4/Claude/Gemini failover & circuit breakers | FastAPI, GraphQL, Solana Web3.js |
 | **AI Video Factory** | Fully automated text-to-YouTube pipeline — 100+ videos/day | Python, FFmpeg, GPT-4, ElevenLabs |
-| **WebAlchemy** | Hackathon-winning LLM scraper orchestrator for website migration | Python, LangChain, Vision APIs |
-| **UVC Healthcare** | Healthcare platform serving 500+ vet clinics across 23 states | Next.js, GraphQL, AWS Lambda, Redis |
+| **WebAlchemy** | Hackathon-winning intelligent web migration orchestrator | Python, LangChain, Vision APIs |
+| **UVC Healthcare** | Healthcare SaaS platform serving 500+ vet clinics across 23 states | Next.js, GraphQL, AWS Lambda, Redis |
 
 ---
 
@@ -103,7 +103,7 @@ func main() {
 
 **Languages** &nbsp; `Go` `Python` `TypeScript` `JavaScript` `Java` `C++` `PHP` `SQL`
 
-**AI/ML & LLM** &nbsp; `LangChain` `LangGraph` `RAG` `Multi-Agent Systems` `OpenAI` `Embeddings` `Pinecone` `Weaviate`
+**AI/ML & LLM** &nbsp; `LangChain` `LangGraph` `RAG` `Agentic AI` `OpenAI` `Embeddings` `Pinecone` `Weaviate`
 
 **Backend** &nbsp; `Node.js` `FastAPI` `Go` `Django` `Spring Boot` `GraphQL` `gRPC` `Express` `Sails.js`
 
