@@ -1,88 +1,110 @@
-- 👋 Hi, I’m Vivek Singh
-- 👀 All of my project are available at <a href="https://vivekk.vercel.app/">-Link</a>
- <!-- - 🌱 Competitive programming enthusiastic
-- 👀 MERN Stack developer | Freelancer
-- 🌱 I’m currently Working On Django and Devops. -->
+<div align="center">
 
-<p align="left"> <a href="https://www.codechef.com/users/vic8526"> <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="vivek1898" /> </a>
-  <a href="https://auth.geeksforgeeks.org/user/viveksingh27795/profile"> <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="vivek1898" /> </a>
-   <a href="https://www.hackerrank.com/viveksingh27795"> <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="vivek1898" /> </a>
-  <a href="https://leetcode.com/vivekx_7/" > <img src="https://badges.peiyuan.ch/leetcode/vivekx_7/ranking?logo=leetcode&label=Leetcode&style=for-the-badge&color=orange"/></a>
-</p>
+# Hey, I'm Vivek Singh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
+### `SDE @ ShyftLabs` | Building Agentic AI & Distributed Systems
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://vivekk.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivek-s-953368121/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viveksingh27795@gmail.com)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1431-blue?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/vivekxx7)
+[![LeetCode](https://img.shields.io/badge/LeetCode-1821-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/vivekx_7/)
 
-<!---
-Vivek1898/Vivek1898 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-```js
-import StudentDeveloper from 'vic';
-
-class Bio extends StudentDeveloper {
-  name     = 'Vivek Singh';
-  title    = 'Full Stack Developer';
-  company  = 'OpenSource | Remote | Freelancer';
-  location = 'Delhi, IN';
-}
-
-class Skills extends StudentDeveloper {
-  languages  = ['C', 'C++', 'Java', 'Python', 'JavaScript','Kotlin','TypeScript'];
-  databases  = ['MySQL', 'MongoDB', 'SQLite','firebase','Redis'];
-  frontend =  ['ReactJs','Angular','NextJs','Bootstrap', 'jquery','Html', 'Css'];
-  backend = ['Node', 'Express','SailsJs','FastApi','Django','Solidity', 'Spring Boot'];
-  orm  = [ 'mongoose' , 'sequelize' , 'prisma'];
-  query_language = ['graphql'];
-  cloud = ['Azure', 'Aws'];
-  ci/cd = ['Jenkins','Aws(CodePipeline)','Github Actions'];
-  containerization = ['Docker','Kubernetes'];
-  configManagement = ['Ansible'];
-  iaac = ['Cloud Formation', 'Terraform','boto 3'];
-  scripting = ['yaml','bash'];
-}
-```
-## Connect with me:
-[![Instagram](https://img.shields.io/badge/@_heyvivek-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_heyvivekk)  [![Website](https://img.shields.io/website?label=AcodeDaily&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.acodedaily.tech/) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivek-s-953368121/)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vivek1898&label=Profile%20Views&color=orange&style=flat-square" alt="Vivek1898" /> </p>
+</div>
 
 ---
 
-<!-- ### Languages and Tools:
+```go
+package main
 
-<p align="center">  
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c.svg" alt="C" height="40"/>
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-plusplus.svg" alt="C++" width="40"/> 
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/html-5.svg" alt="HTML-5" width="40"/>
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/css-3.svg" alt="CSS" width="40"/> 
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" alt="Javascript" width="40"/>
+type Engineer struct {
+    Name     string
+    Role     string
+    Location string
+    Stack    []string
+    Passion  string
+}
 
+func main() {
+    me := Engineer{
+        Name:     "Vivek Singh",
+        Role:     "Software Development Engineer",
+        Location: "New Delhi, India",
+        Stack:    []string{"Go", "Python", "TypeScript", "Kafka", "AWS", "K8s"},
+        Passion:  "Building autonomous AI agents & real-time distributed systems",
+    }
+}
+```
 
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="ReactJs" width="70"/>
- 
-<img alt="Node.js" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="70"/>
-<img alt="Express.js" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" width="70"/>
-<img alt="MongoDB" src="https://camo.githubusercontent.com/00c86fc74d8bbcded37419a2a4167bf5bddfd2ee6bbfcd12fd707ced1ea79719/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6372656174652d72656163742d6170702e737667" width="80"/>
-<img alt="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="70"/>
-<img alt="GitHub" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" width="40"/>
-<img src="https://github.com/gilbarbara/logos/blob/master/logos/python.svg" alt="python" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" alt="Java" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/firebase.svg" alt="Firebase" width="40" height="40"/>
-    <img src="https://github.com/gilbarbara/logos/blob/master/logos/microsoft-azure.svg" alt="Azure" width="40"/>
-</p>
+---
 
---- -->
+## What I Build
 
-<!-- <summary><b>⚡ Github Stats</b></summary>
-<details open>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vivek1898&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek1898&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
- </details>
- -->
+**Agentic AI & LLM Systems** — Multi-agent orchestration, RAG pipelines, real-time ad placement with sub-50ms latency
 
-<summary><b>☄️ Github Streaks</b></summary>
-<details open>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vivek1898&hide_border=true" />
-</details>
+**Distributed Backend Systems** — Event-driven microservices with Kafka, SQS/SNS, processing millions of events
 
+**E-commerce Infrastructure** — Connectors for Shopify/BigCommerce/WooCommerce across 15+ client integrations
 
+**Web3 Intelligence Platforms** — Real-time sentiment analysis, multi-chain support (Ethereum & Solana), serving 10K+ users
+
+---
+
+## Featured Projects
+
+| Project | What it does | Tech |
+|---------|-------------|------|
+| **AdMesh** | Agentic AI advertising — autonomous brand agents for real-time ad placement in AI conversations | Go, LangChain, Kafka, Pinecone |
+| **Alpaco AI** | Web3 trading intelligence with RAG-powered crypto queries & sentiment analysis | Go, LangGraph, Kafka, Vector DB |
+| **Azura OS** | Multi-agent LLM command center with GPT-4/Claude/Gemini failover & circuit breakers | FastAPI, GraphQL, Solana Web3.js |
+| **AI Video Factory** | Fully automated text-to-YouTube pipeline — 100+ videos/day | Python, FFmpeg, GPT-4, ElevenLabs |
+| **WebAlchemy** | Hackathon-winning LLM scraper orchestrator for website migration | Python, LangChain, Vision APIs |
+
+---
+
+## Tech Arsenal
+
+**Languages** &nbsp; `Go` `Python` `TypeScript` `Java` `C++` `PHP` `SQL`
+
+**AI/ML** &nbsp; `LangChain` `LangGraph` `RAG` `Multi-Agent Systems` `OpenAI` `Embeddings` `Pinecone` `Weaviate`
+
+**Backend** &nbsp; `Node.js` `FastAPI` `Go` `Django` `Spring Boot` `GraphQL` `gRPC`
+
+**Data** &nbsp; `PostgreSQL` `MongoDB` `Redis` `DynamoDB` `Cassandra` `Kafka`
+
+**Cloud & DevOps** &nbsp; `AWS` `GCP` `Docker` `Kubernetes` `Terraform` `GitHub Actions`
+
+**Messaging** &nbsp; `Kafka` `AWS SQS/SNS` `RabbitMQ` `Redis Pub/Sub` `Event Sourcing` `CQRS`
+
+---
+
+## Achievements
+
+- **ShyftLabs Hackathon Winner** — Rank 1 among 200+ participants (2025)
+- **Tech-A-Thon Winner** — Competed against 500+ developers (2023)
+- **Smart India Hackathon** — National-level qualifier among 10,000+ applicants
+- **Google Hash Code** — Rank 2,740 globally among 50,000+ participants
+- **Microsoft Certified** — Security, Compliance & Identity Fundamentals (860/1000)
+- **Competitive Programming** — Codeforces Specialist (1431) | CodeChef 3-Star (1756) | LeetCode (1821)
+
+---
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vivek1898&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek1898&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vivek1898&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=vivek1898&label=Profile%20Views&color=orange&style=flat-square)
+
+**Open to opportunities in Backend Engineering, AI/ML Systems & Distributed Systems roles**
+
+</div>
