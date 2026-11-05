@@ -1,17 +1,47 @@
 <div align="center">
 
-# Hey, I'm Vivek Singh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+# Vivek Singh
+### AI Systems & Full Stack Engineer
 
-### Full Stack Engineer | AI & Distributed Systems | SaaS | DSA & Problem Solving
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://vivekk.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivek-s-953368121/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viveksingh27795@gmail.com)
+**Agentic AI · Multi-agent orchestration · RAG / GraphRAG · Distributed systems**
+
+I build AI systems that connect models, tools and real business workflows—
+from Python and Go services to React products, evaluation and production operations.
+
+[Portfolio](https://vivekk.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/vivek-s-953368121/) · [Resume](https://drive.google.com/file/d/1lfevCs11adFORsLqO7u7-jBSZTFwhe8Y/view) · [Email](mailto:viveksingh27795@gmail.com)
+
+**4 years of engineering experience · New Delhi, India · Open to remote contracts**
 
 </div>
 
-## Open Source Contributions
+---
 
-Selected upstream contributions merged into widely used projects. Stars belong to the upstream repositories and update live.
+## Engineering focus
+
+| Area | What I build |
+| :--- | :--- |
+| **Agentic AI systems** | Stateful agent workflows, tool calling, structured outputs, multi-agent coordination, MCP/A2A integrations and human handoff. |
+| **Retrieval & knowledge systems** | RAG and GraphRAG pipelines, embeddings, vector search and graph-backed retrieval with application context. |
+| **Reliable AI delivery** | Evaluation harnesses, guardrails, escalation paths, tracing, model routing and cost-aware orchestration across AI providers. |
+| **Full stack products** | React/Next.js interfaces, Python/Go/Node.js services, APIs, authentication, real-time features and business integrations. |
+| **Distributed infrastructure** | Event-driven services, queues, durable workflows, containerized deployments and production observability. |
+
+## Selected work
+
+| Project | Focus | Core technologies |
+| :--- | :--- | :--- |
+| **Continuum / Simfluent** | Agent coordination, local model execution, handoffs and telemetry | Python, vLLM, Ollama, multi-agent systems |
+| **AdMesh** | Advertising workflows with autonomous targeting agents | Go, LangChain, Kafka, Pinecone |
+| **Azura OS** | Multi-model orchestration with provider failover and circuit breakers | FastAPI, GraphQL, OpenAI, Claude, Gemini |
+| **Alpaco AI** | Retrieval and sentiment workflows for blockchain intelligence | Go, LangGraph, Kafka, vector databases |
+| **WebAlchemy** | Intelligent web migration using language and vision models | Python, LangChain, vision APIs |
+| **UVC Healthcare** | Healthcare SaaS application delivery | Next.js, GraphQL, AWS Lambda, Redis |
+
+More work and project context: **[vivekk.vercel.app](https://vivekk.vercel.app/)**
+
+## Open source contributions
+
+Merged upstream work across AI infrastructure, observability, identity and networking. Each contribution below links to the actual pull request; star badges reflect the upstream project's popularity.
 
 | Repository | Repo stars | Merged contribution |
 | --- | ---: | --- |
@@ -24,155 +54,55 @@ Selected upstream contributions merged into widely used projects. Stars belong t
 | [Grafana Alloy](https://github.com/grafana/alloy) | ![Stars](https://img.shields.io/github/stars/grafana/alloy?style=flat-square&label=stars) | [Fixed concurrent logger creation deadlock](https://github.com/grafana/alloy/pull/7632) |
 | [OpenTelemetry JS](https://github.com/open-telemetry/opentelemetry-js) | ![Stars](https://img.shields.io/github/stars/open-telemetry/opentelemetry-js?style=flat-square&label=stars) | [Declared missing context-zone peer dependency](https://github.com/open-telemetry/opentelemetry-js/pull/7268) |
 
+## Technical toolkit
 
-<p align="left">
-<a href="https://codeforces.com/profile/vivekxx7"><img src="https://img.shields.io/badge/Codeforces-Specialist_1431-blue?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
-<a href="https://www.codechef.com/users/vic8526"><img src="https://img.shields.io/badge/CodeChef-3_Star_1756-brown?style=for-the-badge&logo=codechef&logoColor=white" /></a>
-<a href="https://leetcode.com/vivekx_7/"><img src="https://img.shields.io/badge/LeetCode-1821-orange?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-<a href="https://www.hackerrank.com/viveksingh27795"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
-</p>
+| Layer | Technologies & practices |
+| :--- | :--- |
+| **Languages** | Python, Go, TypeScript, JavaScript, SQL, Java, C++, PHP |
+| **Agents & orchestration** | LangGraph, LangChain, Semantic Kernel, multi-agent systems, MCP, A2A, tool calling, structured outputs, state management, human-in-the-loop workflows |
+| **Models & inference** | OpenAI, Claude, Gemini, Azure AI Foundry, vLLM, Ollama, local model execution, embeddings, multi-provider routing |
+| **Retrieval & AI quality** | RAG, GraphRAG, vector search, evaluation harnesses, guardrails, prompt-injection defense, escalation logic, Langfuse |
+| **Vector & graph stores** | pgvector, Neo4j, Qdrant, Pinecone, Milvus, Weaviate |
+| **Frontend & real-time** | React, Next.js, Angular, HTML, CSS, Bootstrap, WebSockets, Socket.IO |
+| **Backend & APIs** | FastAPI, Node.js, Express, Django, Spring Boot, Sails.js, REST, GraphQL, gRPC, OAuth2, JWT |
+| **Data & persistence** | PostgreSQL, MongoDB, MySQL, Redis, DynamoDB, Cassandra, SQLite, Firebase, Prisma, Sequelize, Mongoose |
+| **Messaging & workflows** | Kafka, RabbitMQ, AWS SQS/SNS, Redis Pub/Sub, Temporal, event sourcing, CQRS, circuit breakers |
+| **Cloud & infrastructure** | AWS, Azure, GCP, Docker, Kubernetes, Terraform, Ansible, CloudFormation |
+| **Delivery & observability** | GitHub Actions, Jenkins, AWS CodePipeline, Git, OpenTelemetry, Prometheus, Grafana, SonarQube |
+| **Integrations & automation** | API integrations, voice AI, Twilio SMS/WhatsApp, business workflow automation, Claude Code |
 
----
+<details>
+<summary><strong>AWS services & Microsoft ecosystem</strong></summary>
 
-```go
-package vivek
+AWS: EC2, S3, Lambda, RDS, SQS, SNS, CloudWatch and CloudFront.
 
-import (
-    "fmt"
-    "strings"
-)
+Microsoft: Azure AI Services, Azure AI Foundry, Azure DevOps Pipelines, Key Vault, Azure Storage, Azure Monitor, Microsoft Entra ID, Microsoft Copilot, Copilot Studio, Power Automate, Power Apps, Dynamics 365, SharePoint and Excel.
 
-type FullStackEngineer struct {
-    Name       string
-    Title      string
-    Location   string
-    Focus      []string
-    Superpower string
-}
+</details>
 
-func (v *FullStackEngineer) BuildsThingsLike() []string {
-    return []string{
-        "AI-powered SaaS platforms & agentic automation systems",
-        "Event-driven microservices processing millions of events",
-        "Full stack e-commerce platforms across 15+ enterprise clients",
-        "Web3 intelligence platforms serving 10K+ users",
-        "Automated video generation pipelines at scale",
-    }
-}
+<details>
+<summary><strong>Competitive programming & achievements</strong></summary>
 
-func (v *FullStackEngineer) DailyTools() map[string][]string {
-    return map[string][]string{
-        "languages":  {"Go", "Python", "TypeScript", "Java", "C++", "PHP"},
-        "ai_ml":      {"LangChain", "LangGraph", "RAG", "Agentic AI", "OpenAI", "Embeddings"},
-        "backend":    {"Node.js", "FastAPI", "Django", "Spring Boot", "GraphQL", "gRPC"},
-        "frontend":   {"React.js", "Next.js", "Angular", "TypeScript"},
-        "databases":  {"PostgreSQL", "MongoDB", "Redis", "DynamoDB", "Cassandra", "MySQL"},
-        "cloud":      {"AWS", "GCP", "Docker", "Kubernetes", "Terraform"},
-        "messaging":  {"Kafka", "AWS SQS/SNS", "RabbitMQ", "Redis Pub/Sub"},
-        "dsa":        {"Codeforces Specialist", "CodeChef 3-Star", "LeetCode 1821"},
-    }
-}
+- [Codeforces](https://codeforces.com/profile/vivekxx7): Specialist · 1431
+- [CodeChef](https://www.codechef.com/users/vic8526): 3 Star · 1756
+- [LeetCode](https://leetcode.com/vivekx_7/): 1821
+- [HackerRank](https://www.hackerrank.com/viveksingh27795)
+- ShyftLabs Hackathon Winner (2025)
+- Tech-A-Thon Winner (2023)
+- Smart India Hackathon: national-level qualifier
+- Google Hash Code: global rank 2,740
+- Microsoft Certified: Security, Compliance & Identity Fundamentals
 
-func main() {
-    me := &FullStackEngineer{
-        Name:       "Vivek Singh",
-        Title:      "Full Stack Software Engineer",
-        Location:   "India",
-        Focus:      []string{"AI/ML Systems", "Distributed Systems", "SaaS Platforms", "DSA"},
-        Superpower: "Turning coffee into production-grade microservices at 3 AM",
-    }
-    fmt.Printf("%s | %s\n", me.Name, strings.Join(me.Focus, " + "))
-}
-```
+</details>
+
+<details>
+<summary><strong>GitHub activity</strong></summary>
+
+![GitHub activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vivek1898&theme=github_dark)
+
+</details>
 
 ---
 
-## What I Build
-
-**AI-Powered SaaS Platforms** — Intelligent automation systems with RAG pipelines, agentic AI, and real-time orchestration
-
-**Distributed Backend Systems** — Event-driven microservices with Kafka, SQS/SNS, processing millions of events at scale
-
-**Full Stack E-commerce Solutions** — Enterprise connectors (Shopify, BigCommerce, WooCommerce) across 15+ client integrations
-
-**Web3 & Blockchain Platforms** — Real-time sentiment analysis, multi-chain support (Ethereum & Solana), serving 10K+ users
-
-**Problem Solving & DSA** — Codeforces Specialist (1431) | CodeChef 3-Star (1756) | LeetCode (1821) | 500+ problems solved
-
----
-
-## Featured Projects
-
-| Project | What it does | Tech |
-|---------|-------------|------|
-| **AdMesh** | AI-powered programmatic advertising platform with autonomous targeting agents | Go, LangChain, Kafka, Pinecone |
-| **Alpaco AI** | Blockchain trading intelligence with RAG-based query engine & sentiment analysis | Go, LangGraph, Kafka, Vector DB |
-| **Azura OS** | Multi-LLM command center with GPT-4/Claude/Gemini failover & circuit breakers | FastAPI, GraphQL, Solana Web3.js |
-| **AI Video Factory** | Fully automated text-to-YouTube pipeline — 100+ videos/day | Python, FFmpeg, GPT-4, ElevenLabs |
-| **WebAlchemy** | Hackathon-winning intelligent web migration orchestrator | Python, LangChain, Vision APIs |
-| **UVC Healthcare** | Healthcare SaaS platform serving 500+ vet clinics across 23 states | Next.js, GraphQL, AWS Lambda, Redis |
-
----
-
-## Tech Arsenal
-
-**Languages** &nbsp; `Go` `Python` `TypeScript` `JavaScript` `Java` `C++` `PHP` `SQL`
-
-**AI/ML & LLM** &nbsp; `LangChain` `LangGraph` `RAG` `Agentic AI` `OpenAI` `Embeddings` `Pinecone` `Weaviate`
-
-**Backend** &nbsp; `Node.js` `FastAPI` `Go` `Django` `Spring Boot` `GraphQL` `gRPC` `Express` `Sails.js`
-
-**Frontend** &nbsp; `React.js` `Next.js` `Angular` `Bootstrap` `HTML` `CSS`
-
-**Databases & ORMs** &nbsp; `PostgreSQL` `MongoDB` `MySQL` `Redis` `DynamoDB` `Cassandra` `SQLite` `Firebase` `Mongoose` `Sequelize` `Prisma`
-
-**Messaging & Architecture** &nbsp; `Kafka` `AWS SQS/SNS` `RabbitMQ` `Redis Pub/Sub` `Event Sourcing` `CQRS` `Circuit Breaker`
-
-**Cloud & DevOps** &nbsp; `AWS (EC2, S3, Lambda, RDS, SQS, SNS, CloudWatch, CloudFront)` `GCP` `Docker` `Kubernetes` `Terraform`
-
-**CI/CD & Monitoring** &nbsp; `GitHub Actions` `Jenkins` `AWS CodePipeline` `SonarQube` `Prometheus` `Grafana`
-
-**Tools & Auth** &nbsp; `Git` `Firebase` `Socket.IO` `OAuth2` `JWT` `WebSockets` `Ansible` `CloudFormation`
-
----
-
-## Achievements
-
-- **ShyftLabs Hackathon Winner** — Rank 1 among 200+ participants (2025)
-- **Tech-A-Thon Winner** — Competed against 500+ developers (2023)
-- **Smart India Hackathon** — National-level qualifier among 10,000+ applicants
-- **Google Hash Code** — Rank 2,740 globally among 50,000+ participants
-- **Microsoft Certified** — Security, Compliance & Identity Fundamentals (860/1000)
-- **Competitive Programming** — Codeforces Specialist (1431) | CodeChef 3-Star (1756) | LeetCode (1821)
-
----
-
-<div align="center">
-
-<a href="https://github.com/Vivek1898">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vivek1898&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Vivek1898">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vivek1898&theme=tokyonight" />
-</a>
-<a href="https://github.com/Vivek1898">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vivek1898&theme=tokyonight&utcOffset=5.5" />
-</a>
-
-<a href="https://github.com/Vivek1898">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vivek1898&theme=tokyonight" />
-</a>
-<a href="https://github.com/Vivek1898">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vivek1898&theme=tokyonight" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=vivek1898&label=Profile%20Views&color=orange&style=flat-square)
-
-</div>
+**Let's build:** AI products, agent workflows, retrieval systems and full stack platforms.
+[Email me](mailto:viveksingh27795@gmail.com) · [Explore my work](https://vivekk.vercel.app/)
