@@ -5,7 +5,7 @@
 
 **Agentic AI · Multi-agent systems · RAG & GraphRAG · Cloud-native products**
 
-I turn complex workflows into AI-powered products: autonomous agents, knowledge systems, business automation and full stack SaaS.
+I help teams turn manual workflows and complex data into useful software: AI agents, searchable knowledge systems, data pipelines and full stack SaaS.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-475569?style=for-the-badge&logo=vercel&logoColor=white&color=475569&labelColor=1e293b)](https://vivekk.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-475569?style=for-the-badge&logo=linkedin&logoColor=white&color=475569&labelColor=1e293b)](https://www.linkedin.com/in/vivek-s-953368121/)
@@ -29,6 +29,7 @@ I turn complex workflows into AI-powered products: autonomous agents, knowledge 
 
 - **AI agents & knowledge systems** — Multi-agent orchestration, MCP/A2A integrations, RAG/GraphRAG, tool calling and human handoff.
 - **Full stack SaaS & automation** — React/Next.js products with Python, Go and Node.js services, APIs, authentication and business workflows.
+- **Data pipelines & streaming** — Apache Spark processing, Kafka event pipelines, Python/SQL integrations and cloud-backed storage.
 - **Production AI infrastructure** — Evaluation, guardrails, model routing, cost management, event-driven services and observability.
 
 ## Selected platforms & products
@@ -70,6 +71,7 @@ Selected merged contributions in AI infrastructure, observability, identity and 
 | **Vector & graph stores** | pgvector, Neo4j, Qdrant, Pinecone, Milvus, Weaviate |
 | **Frontend & real-time** | React, Next.js, Angular, HTML, CSS, Bootstrap, WebSockets, Socket.IO |
 | **Backend & APIs** | FastAPI, Node.js, Express, Django, Spring Boot, Sails.js, REST, GraphQL, gRPC, OAuth2, JWT |
+| **Data processing & streaming** | Apache Spark, Kafka, Python, SQL, event-driven pipelines, AWS S3, Azure Storage |
 | **Data & persistence** | PostgreSQL, MongoDB, MySQL, Redis, DynamoDB, Cassandra, SQLite, Firebase, Prisma, Sequelize, Mongoose |
 | **Messaging & workflows** | Kafka, RabbitMQ, AWS SQS/SNS, Redis Pub/Sub, Temporal, event sourcing, CQRS, circuit breakers |
 | **Cloud & infrastructure** | AWS, Azure, GCP, Docker, Kubernetes, Terraform, Ansible, CloudFormation |
@@ -94,14 +96,18 @@ Microsoft: Azure AI Services, Azure AI Foundry, Azure DevOps Pipelines, Key Vaul
 
 
 
-## Public code & activity
-
-<img src="https://raw.githubusercontent.com/Vivek1898/Vivek1898/main/assets/languages.svg" alt="Languages in original public repositories, checked 6 Nov 2026" width="100%" />
+## GitHub activity
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vivek1898&theme=github_dark" alt="GitHub contribution activity" width="100%" />
 
 
 ---
 
-**Let's build:** AI products, agent workflows, retrieval systems and full stack platforms.
-[Email me](mailto:viveksingh27795@gmail.com) · [Explore my work](https://vivekk.vercel.app/)
+## Start with a clear milestone
+
+**MVP build · AI integration · Workflow automation · Backend or data-pipeline delivery**
+
+Share the problem, your current stack and the first outcome you need. We can define a scoped paid milestone with deliverables, acceptance criteria and a timeline, then expand into ongoing contract work.
+
+[**Discuss your project →**](mailto:viveksingh27795@gmail.com?subject=Project%20discussion) · [View portfolio](https://vivekk.vercel.app/) · [Connect on LinkedIn](https://www.linkedin.com/in/vivek-s-953368121/)
+
