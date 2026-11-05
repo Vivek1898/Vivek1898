@@ -9,6 +9,22 @@
 
 </div>
 
+## Open Source Contributions
+
+Selected upstream contributions merged into widely used projects. Stars belong to the upstream repositories and update live.
+
+| Repository | Repo stars | Merged contribution |
+| --- | ---: | --- |
+| [Headroom](https://github.com/headroomlabs-ai/headroom) | ![Stars](https://img.shields.io/github/stars/headroomlabs-ai/headroom?style=flat-square&label=stars) | [Fixed OpenClaw retrieve tool argument handling](https://github.com/headroomlabs-ai/headroom/pull/4641) |
+| [Grafana](https://github.com/grafana/grafana) | ![Stars](https://img.shields.io/github/stars/grafana/grafana?style=flat-square&label=stars) | [Corrected OTel stack trace classification](https://github.com/grafana/grafana/pull/136806) · [Fixed dashboard subpath handling](https://github.com/grafana/grafana/pull/136808) |
+| [Tailscale](https://github.com/tailscale/tailscale) | ![Stars](https://img.shields.io/github/stars/tailscale/tailscale?style=flat-square&label=stars) | [Fixed TLS-terminated TCP serve config targets](https://github.com/tailscale/tailscale/pull/21789) |
+| [Telegraf](https://github.com/influxdata/telegraf) | ![Stars](https://img.shields.io/github/stars/influxdata/telegraf?style=flat-square&label=stars) | [Fixed proxy CONNECT credentials](https://github.com/influxdata/telegraf/pull/19920) · [Fixed vsock context ID binding](https://github.com/influxdata/telegraf/pull/19854) |
+| [Logto](https://github.com/logto-io/logto) | ![Stars](https://img.shields.io/github/stars/logto-io/logto?style=flat-square&label=stars) | [Fixed multi-valued SAML claims](https://github.com/logto-io/logto/pull/9960) |
+| [Bifrost](https://github.com/maximhq/bifrost) | ![Stars](https://img.shields.io/github/stars/maximhq/bifrost?style=flat-square&label=stars) | [Fixed Gemini tool-call IDs](https://github.com/maximhq/bifrost/pull/8565) · [Added Mistral audio transcription](https://github.com/maximhq/bifrost/pull/1016) |
+| [Grafana Alloy](https://github.com/grafana/alloy) | ![Stars](https://img.shields.io/github/stars/grafana/alloy?style=flat-square&label=stars) | [Fixed concurrent logger creation deadlock](https://github.com/grafana/alloy/pull/7632) |
+| [OpenTelemetry JS](https://github.com/open-telemetry/opentelemetry-js) | ![Stars](https://img.shields.io/github/stars/open-telemetry/opentelemetry-js?style=flat-square&label=stars) | [Declared missing context-zone peer dependency](https://github.com/open-telemetry/opentelemetry-js/pull/7268) |
+
+
 <p align="left">
 <a href="https://codeforces.com/profile/vivekxx7"><img src="https://img.shields.io/badge/Codeforces-Specialist_1431-blue?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
 <a href="https://www.codechef.com/users/vic8526"><img src="https://img.shields.io/badge/CodeChef-3_Star_1756-brown?style=for-the-badge&logo=codechef&logoColor=white" /></a>
