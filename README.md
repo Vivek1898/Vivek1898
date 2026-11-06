@@ -7,7 +7,7 @@
 
 I help teams turn manual workflows and complex data into useful software: AI agents, searchable knowledge systems, data pipelines and full stack SaaS.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-475569?style=for-the-badge&logo=vercel&logoColor=white&color=475569&labelColor=1e293b)](https://vivekk.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-475569?style=for-the-badge&logo=vercel&logoColor=white&color=475569&labelColor=1e293b)](https://vivekbuilds.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-475569?style=for-the-badge&logo=linkedin&logoColor=white&color=475569&labelColor=1e293b)](https://www.linkedin.com/in/vivek-s-953368121/)
 [![Email](https://img.shields.io/badge/Email-475569?style=for-the-badge&logo=gmail&logoColor=white&color=475569&labelColor=1e293b)](mailto:viveksingh27795@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-475569?style=for-the-badge&logo=readthedocs&logoColor=white&color=475569&labelColor=1e293b)](https://drive.google.com/file/d/1lfevCs11adFORsLqO7u7-jBSZTFwhe8Y/view)
@@ -43,7 +43,7 @@ I help teams turn manual workflows and complex data into useful software: AI age
 | **AI Web Migration Studio** | Intelligent web migration using language and vision models | Python, LangChain, vision APIs |
 | **Healthcare SaaS Platform** | Healthcare SaaS application delivery | Next.js, GraphQL, AWS Lambda, Redis |
 
-More work and project context: **[vivekk.vercel.app](https://vivekk.vercel.app/)**
+More work and project context: **[vivekbuilds.com](https://vivekbuilds.com/)**
 
 ## Open source contributions
 
@@ -109,5 +109,5 @@ Microsoft: Azure AI Services, Azure AI Foundry, Azure DevOps Pipelines, Key Vaul
 
 Share the problem, your current stack and the first outcome you need. We can define a scoped paid milestone with deliverables, acceptance criteria and a timeline, then expand into ongoing contract work.
 
-[**Discuss your project →**](mailto:viveksingh27795@gmail.com?subject=Project%20discussion) · [View portfolio](https://vivekk.vercel.app/) · [Connect on LinkedIn](https://www.linkedin.com/in/vivek-s-953368121/)
+[**Discuss your project →**](mailto:viveksingh27795@gmail.com?subject=Project%20discussion) · [View portfolio](https://vivekbuilds.com/) · [Connect on LinkedIn](https://www.linkedin.com/in/vivek-s-953368121/)
 
